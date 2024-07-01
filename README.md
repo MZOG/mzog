@@ -2,6 +2,6 @@
 
 My name is Marcin and I am a self-taught **Front End** developer.
 
-Currently I'm focusing on **JAMstack** and expanding my knowledge of **Gatsby**.
+**React, Next.js, TypeScript**
 
 Check out my website: [marcinzogrodnik.pl](https://marcinzogrodnik.pl)
